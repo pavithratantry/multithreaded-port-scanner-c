@@ -1,4 +1,3 @@
-# multithreaded-port-scanner-c
 # Multithreaded Port Scanner in C
 
 A simple yet powerful multithreaded TCP port scanner written in C. It uses POSIX threads and low-level socket programming to scan a range of ports on a target IP address.
